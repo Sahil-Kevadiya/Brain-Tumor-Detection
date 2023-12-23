@@ -50,9 +50,11 @@ So why not try a simpler architecture and train it from scratch. And it worked :
 The model was trained for 24 epochs and these are the loss & accuracy plots:
 
 Loss plot
+
 ![image](https://github.com/Sahil-Kevadiya/Brain-Tumor-Detection/assets/138906113/e4f30482-5be7-4861-8f09-6e5ed1fbfb9d)
 
 Accuracy plot
+
 ![image](https://github.com/Sahil-Kevadiya/Brain-Tumor-Detection/assets/138906113/9914a78b-e683-48c0-a777-9550c00e5be7)
 
 
